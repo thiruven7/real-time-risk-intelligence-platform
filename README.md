@@ -85,7 +85,7 @@ JOIN customers_keyed FOR SYSTEM_TIME AS OF t.`$rowtime` AS c
 | **Cluster Overview** | Cluster metrics & endpoints | [`2-risk-intelligence-cluster.png`](./screenshots/2-risk-intelligence-cluster.png) |
 | **Connectors** | Running Datagen source connectors | [`3-connectors.png`](./screenshots/3-connectors.png) |
 | **Schema Registry** | Schema Registry overview | [`4-schema-registry.png`](./screenshots/4-schema-registry.png) |
-| **Schemas** | Customer profiles Avro schema | [`5-customer-profiles-schema.png`](./screenshots/5-customer-profiles-schema.png) |
+| **Schemas** | Customer profiles Avro schema | [`5-customer-profiles-schema.png`](./screenshots/5-customer_profiles-value-schema.png) |
 | **Schemas** | Transactions Avro schema | [`6-transactions-value-schema.png`](./screenshots/6-transactions-value-schema.png) |
 | **Flink Environment** | Flink workspace home | [`7-flink-home.png`](./screenshots/7-flink-home.png) |
 | **Flink Compute** | AWS region compute pool | [`8-AWS.us-east-2.png`](./screenshots/8-AWS.us-east-2.png) |
