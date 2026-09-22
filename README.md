@@ -90,7 +90,7 @@ JOIN customers_keyed FOR SYSTEM_TIME AS OF t.`$rowtime` AS c
 | **Flink Environment** | Flink workspace home | [`7-flink-home.png`](./screenshots/7-flink-home.png) |
 | **Flink Compute** | AWS region compute pool | [`8-AWS.us-east-2.png`](./screenshots/8-AWS.us-east-2.env-g25vwr.908d.png) |
 | **SQL Workspace** | Flink SQL workspace | [`9-SQL-workspace.png`](./screenshots/9-SQL-workspace.png) |
-| **Output Stream** | Real-time output data | [`10-risk_intelligence_table-data.png`](./screenshots/10-risk_intelligence_table-data.png) |
+| **Output Stream** | Real-time output data | [`10-risk_intelligence_table-data.png`](./screenshots/10-risk_intelligence_stream-mv-table-data.png) |
 | **Stream Lineage** | Full pipeline lineage | [`11-stream-lineage-full.png`](./screenshots/11-stream-lineage-full.png) |
 | **Stream Lineage** | Ingestion lineage view | [`12a-stream-lineage-first-half.png`](./screenshots/12a-stream-lineage-first-half.png) |
 | **Stream Lineage** | Processing lineage view | [`12b-stream-lineage-second-half.png`](./screenshots/12b-stream-lineage-second-half.png) |
