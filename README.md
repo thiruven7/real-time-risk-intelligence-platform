@@ -88,7 +88,7 @@ JOIN customers_keyed FOR SYSTEM_TIME AS OF t.`$rowtime` AS c
 | **Schemas** | Customer profiles Avro schema | [`5-customer-profiles-schema.png`](./screenshots/5-customer_profiles-value-schema.png) |
 | **Schemas** | Transactions Avro schema | [`6-transactions-value-schema.png`](./screenshots/6-transactions-value-schema.png) |
 | **Flink Environment** | Flink workspace home | [`7-flink-home.png`](./screenshots/7-flink-home.png) |
-| **Flink Compute** | AWS region compute pool | [`8-AWS.us-east-2.png`](./screenshots/8-AWS.us-east-2.png) |
+| **Flink Compute** | AWS region compute pool | [`8-AWS.us-east-2.png`](./screenshots/8-AWS.us-east-2.env-g25vwr.908d.png) |
 | **SQL Workspace** | Flink SQL workspace | [`9-SQL-workspace.png`](./screenshots/9-SQL-workspace.png) |
 | **Output Stream** | Real-time output data | [`10-risk_intelligence_table-data.png`](./screenshots/10-risk_intelligence_table-data.png) |
 | **Stream Lineage** | Full pipeline lineage | [`11-stream-lineage-full.png`](./screenshots/11-stream-lineage-full.png) |
